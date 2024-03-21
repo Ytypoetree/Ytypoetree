@@ -1,8 +1,12 @@
->>> import poetree
+>import poetree
+
 "Hi, I'm poetree! Glad to see you!"
->>> poetree.name
+> poetree.name
+
 ('poetree', 'Tianyao Yu')
->>> poetree.interests
+> poetree.interests
+
 ['metal', 'badminton', 'Irish tin wistle', 'soccer']
->>>poetree.learning
+>poetree.learning
+
 ['Python', 'R', 'Stochastic Calculus']
